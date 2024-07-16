@@ -83,6 +83,8 @@ h2{
 .titulo22{
     text-align: center;
     padding-top: 50px;
+    position: relative;
+    top: -20px;
 }
 .post{
     font-size: 25px;
